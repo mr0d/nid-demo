@@ -1,5 +1,30 @@
 {
-	"transactions": [{
+	"accounts": [
+		{
+			"id": 1,
+			"accountNumber": "12.321.4421.12",
+			"holder": "Andreas Mustermann",
+			"type": "Debit",
+			"currency": "Euro",
+			"status": 1,
+			"ledgerBal": 15000,
+			"holds": 2500,
+			"available": 12500
+		}
+	],
+	"cards": [
+		{
+			"id": 1,
+			"holder": "Andreas Mustermann",
+			"cardNumber": "5109 86** **** 1235",
+			"expDate": "2020-01-01T00:00:00.000Z",
+			"issuanceDate": "2018-01-01T12:00:00.000Z",
+			"reissuanceDate": "2026-01-01T00:00:00.000Z", 
+			"accounts": [1]
+		}
+	],
+	"transactions": [
+		{
 			"id": 1,
 			"to": "h&m",
 			"type": "purchase",
