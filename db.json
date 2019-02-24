@@ -2,7 +2,7 @@
   "transactions": [
     { 
       "id": 1,
-      "to": "h&m"
+      "to": "h&m",
       "type": "purchase",
       "amount": "34.99",
       "currency": "€",
@@ -10,7 +10,7 @@
     },
     { 
       "id": 2,
-      "to": "ikea"
+      "to": "ikea",
       "type": "purchase",
       "amount": "79.99",
       "currency": "€",
