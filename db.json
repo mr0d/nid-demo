@@ -24,7 +24,34 @@
 			"amount": "7.99",
 			"currency": "€",
 			"date": "2019-02-23T13:10:00.000Z",
-			"thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+			"thumbnailUrl": "https://via.placeholder.com/150/1fe46f"
+		},
+		{
+			"id": 4,
+			"to": "Migros",
+			"type": "purchase",
+			"amount": "138,50",
+			"currency": "€",
+			"date": "2019-02-21T15:05:00.000Z",
+			"thumbnailUrl": "https://via.placeholder.com/150/5e12c6"
+		},
+		{
+			"id": 5,
+			"to": "primark",
+			"type": "purchase",
+			"amount": "17,95",
+			"currency": "€",
+			"date": "2019-02-21T15:35:00.000Z",
+			"thumbnailUrl": "https://via.placeholder.com/150/e924e6"
+		},
+	 	{
+			"id": 6,
+			"to": "pizza-hut",
+			"type": "purchase",
+			"amount": "19,95",
+			"currency": "€",
+			"date": "2019-02-20T12:31:00.000Z",
+			"thumbnailUrl": "https://via.placeholder.com/150/a7c272"
 		}
 	]
 }
