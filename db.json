@@ -18,7 +18,7 @@
     },
     { 
       "id": 3,
-      "to": "pasta box"
+      "to": "pasta box",
       "type": "purchase",
       "amount": "7.99",
       "currency": "€",
