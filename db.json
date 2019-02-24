@@ -1,29 +1,27 @@
 {
-  "transactions": 
-  [
-    { 
-      "id": 1,
-      "to": "h&m",
-      "type": "purchase",
-      "amount": "34.99",
-      "currency": "€",
-      "date": "24/02/19, 12:00"
-    },
-    { 
-      "id": 2,
-      "to": "ikea",
-      "type": "purchase",
-      "amount": "79.99",
-      "currency": "€",
-      "date": "24/02/19, 14:00"
-    },
-    { 
-      "id": 3,
-      "to": "pasta box",
-      "type": "purchase",
-      "amount": "7.99",
-      "currency": "€",
-      "date": "23/02/19, 12:35"
-    },
-  ]
+	"transactions": [{
+			"id": 1,
+			"to": "h&m",
+			"type": "purchase",
+			"amount": "34.99",
+			"currency": "€",
+			"date": "24/02/19, 12:00"
+		},
+		{
+			"id": 2,
+			"to": "ikea",
+			"type": "purchase",
+			"amount": "79.99",
+			"currency": "€",
+			"date": "24/02/19, 14:00"
+		},
+		{
+			"id": 3,
+			"to": "pasta box",
+			"type": "purchase",
+			"amount": "7.99",
+			"currency": "€",
+			"date": "23-02-19, 12:35"
+		}
+	]
 }
