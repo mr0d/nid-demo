@@ -5,7 +5,7 @@
 			"type": "purchase",
 			"amount": "34.99",
 			"currency": "€",
-			"date": "Sun Feb 24 2019 12:34:25 GMT+0100 (CET)",
+			"date": "2019-02-24T12:30:00.000Z",
 			"thumbnailUrl": "https://via.placeholder.com/150/24f355"
 		},
 		{
@@ -14,7 +14,7 @@
 			"type": "purchase",
 			"amount": "79.99",
 			"currency": "€",
-			"date": "Sun Feb 24 2019 14:34:25 GMT+0100 (CET)",
+			"date": "2019-02-24T16:40:00.000Z",
 			"thumbnailUrl": "https://via.placeholder.com/150/d32776"
 		},
 		{
@@ -23,7 +23,7 @@
 			"type": "purchase",
 			"amount": "7.99",
 			"currency": "€",
-			"date": "Fri Feb 22 2019 10:34:05 GMT+0100 (CET)",
+			"date": "2019-02-23T13:10:00.000Z",
 			"thumbnailUrl": "https://via.placeholder.com/150/f66b97"
 		}
 	]
