@@ -10,6 +10,28 @@
 			"ledgerBal": 15000,
 			"holds": 2500,
 			"available": 12500
+		},
+		{
+			"id": 2,
+			"accountNumber": "12.111.4761.32",
+			"holder": "Olivia Mustermann",
+			"type": "Debit",
+			"currency": "Euro",
+			"status": 1,
+			"ledgerBal": 25716,
+			"holds": 2500,
+			"available": 22716
+		},
+		{
+			"id": 2,
+			"accountNumber": "12.111.4761.32",
+			"holder": "John Mustermann",
+			"type": "Debit",
+			"currency": "Euro",
+			"status": 3,
+			"ledgerBal": 1813,
+			"holds": 500,
+			"available": 1313
 		}
 	],
 	"cards": [
