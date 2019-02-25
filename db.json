@@ -32,6 +32,7 @@
 			"currency": "€",
 			"date": "2019-02-24T12:30:00.000Z",
 			"bank_account": "12.123.4457.12",
+			"status": "booked",
 			"thumbnailUrl": "https://via.placeholder.com/150/24f355"
 		},
 		{
@@ -42,6 +43,7 @@
 			"currency": "€",
 			"date": "2019-02-24T16:40:00.000Z",
 			"bank_account": "12.321.4421.12",
+			"status": "awaiting authorization",
 			"thumbnailUrl": "https://via.placeholder.com/150/d32776"
 		},
 		{
@@ -52,6 +54,7 @@
 			"currency": "€",
 			"date": "2019-02-23T13:10:00.000Z",
 			"bank_account": "12.321.4421.12",
+			"status": "booked",
 			"thumbnailUrl": "https://via.placeholder.com/150/1fe46f"
 		},
 		{
@@ -62,6 +65,7 @@
 			"currency": "€",
 			"date": "2019-02-21T15:05:00.000Z",
 			"bank_account": "12.321.4421.12",
+			"status": "booked",
 			"thumbnailUrl": "https://via.placeholder.com/150/5e12c6"
 		},
 		{
@@ -72,6 +76,7 @@
 			"currency": "€",
 			"date": "2019-02-21T15:35:00.000Z",
 			"bank_account": "12.123.4457.12",
+			"status": "booked",
 			"thumbnailUrl": "https://via.placeholder.com/150/e924e6"
 		},
 	 	{
@@ -82,6 +87,7 @@
 			"currency": "€",
 			"date": "2019-02-20T12:31:00.000Z",
 			"bank_account": "12.123.4457.12",
+			"status": "booked",
 			"thumbnailUrl": "https://via.placeholder.com/150/a7c272"
 		}
 	]
