@@ -26,13 +26,13 @@
 	"transactions": [
 		{
 			"id": 1,
-			"to": "h&m",
+			"to": "h&m online",
 			"type": "purchase",
 			"amount": "34.99",
 			"currency": "€",
 			"date": "2019-02-24T12:30:00.000Z",
 			"bank_account": "12.123.4457.12",
-			"status": "booked",
+			"status": "awaiting authorization",
 			"thumbnailUrl": "https://via.placeholder.com/150/24f355"
 		},
 		{
