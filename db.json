@@ -55,7 +55,8 @@
 			"date": "2019-02-24T12:30:00.000Z",
 			"bank_account": "12.123.4457.12",
 			"status": 1,
-			"thumbnailUrl": "https://via.placeholder.com/150/24f355"
+			"thumbnailUrl": "https://via.placeholder.com/150/24f355",
+			"card": "X-1235",
 		},
 		{
 			"id": 2,
@@ -66,7 +67,8 @@
 			"date": "2019-02-24T16:40:00.000Z",
 			"bank_account": "12.321.4421.12",
 			"status": 0,
-			"thumbnailUrl": "https://via.placeholder.com/150/d32776"
+			"thumbnailUrl": "https://via.placeholder.com/150/d32776",
+			"card": "X-1230",
 		},
 		{
 			"id": 3,
@@ -77,7 +79,8 @@
 			"date": "2019-02-23T13:10:00.000Z",
 			"bank_account": "12.321.4421.12",
 			"status": 1,
-			"thumbnailUrl": "https://via.placeholder.com/150/1fe46f"
+			"thumbnailUrl": "https://via.placeholder.com/150/1fe46f",
+			"card": "X-1235",
 		},
 		{
 			"id": 4,
@@ -88,7 +91,8 @@
 			"date": "2019-02-21T15:05:00.000Z",
 			"bank_account": "12.321.4421.12",
 			"status": 1,
-			"thumbnailUrl": "https://via.placeholder.com/150/5e12c6"
+			"thumbnailUrl": "https://via.placeholder.com/150/5e12c6",
+			"card": "X-1235",
 		},
 		{
 			"id": 5,
@@ -99,7 +103,8 @@
 			"date": "2019-02-21T15:35:00.000Z",
 			"bank_account": "12.123.4457.12",
 			"status": 1,
-			"thumbnailUrl": "https://via.placeholder.com/150/e924e6"
+			"thumbnailUrl": "https://via.placeholder.com/150/e924e6",
+			"card": "X-1225",
 		},
 	 	{
 			"id": 6,
@@ -110,7 +115,8 @@
 			"date": "2019-02-20T12:31:00.000Z",
 			"bank_account": "12.123.4457.12",
 			"status": 0,
-			"thumbnailUrl": "https://via.placeholder.com/150/a7c272"
+			"thumbnailUrl": "https://via.placeholder.com/150/a7c272",
+			"card": "X-1235",
 		}
 	]
 }
