@@ -54,7 +54,7 @@
 			"currency": "€",
 			"date": "2019-02-24T12:30:00.000Z",
 			"bank_account": "12.123.4457.12",
-			"status": 1,
+			"status": 0,
 			"thumbnailUrl": "https://via.placeholder.com/150/24f355",
 			"card": "X-1235"
 		},
@@ -114,7 +114,7 @@
 			"currency": "€",
 			"date": "2019-02-20T12:31:00.000Z",
 			"bank_account": "12.123.4457.12",
-			"status": 0,
+			"status": 1,
 			"thumbnailUrl": "https://via.placeholder.com/150/a7c272",
 			"card": "X-1235"
 		}
